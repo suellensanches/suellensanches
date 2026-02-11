@@ -1,8 +1,6 @@
 ###### Sobre mim
 
 * Estudante de Desenvolvimento de Sistemas no SENAI Ipiranga e do Ensino Médio no SESI Ipiranga.
-* Em preparação para o vestibular da FUVEST.
-* Leitura e escrita fazem parte de quem eu sou.
 * e-mail para contato: suellen.ssanches4@gmail.com
 ###### That's my way and I go
 ###### Esse é meu caminho e nele eu vou!
